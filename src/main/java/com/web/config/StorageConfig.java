@@ -17,8 +17,8 @@ import com.amazonaws.services.securitytoken.model.Credentials;
 @Configuration
 public class StorageConfig {
 
-	private String accesskey = "AKIAXFBFR2GNXRQDVYFK";
-	private String secret = "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";
+	private String accesskey = "********";
+	private String secret = "*******";
 	private String region = "ap-south-1";
 	
 	
